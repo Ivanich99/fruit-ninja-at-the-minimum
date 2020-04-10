@@ -1,0 +1,11 @@
+c:\users\иван\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+c:\users\иван\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+c:\users\иван\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+c:\users\иван\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+c:\users\иван\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Resource1.resources
+c:\users\иван\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\game.csproj.GenerateResource.Cache
+c:\users\иван\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\game.csproj.CoreCompileInputs.cache
+c:\users\иван\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+c:\users\иван\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+c:\users\иван\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\game.csprojResolveAssemblyReference.cache
+C:\Users\иван\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
